@@ -1,0 +1,8 @@
+{
+  "fish": [
+    { "name": "Salmon", "weight": "5 lbs" },
+    { "name": "Tuna", "weight": "20 lbs" },
+    { "name": "Trout", "weight": "2 lbs" },
+    { "name": "Shark", "weight": "150 lbs" }
+  ]
+}
