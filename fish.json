@@ -49,5 +49,46 @@
     { "name": "Goliath Tigerfish", "rarity": 10, "weight": 80.0 },
     { "name": "Gudgeon", "rarity": 1, "weight": 0.3 },
     { "name": "Zander", "rarity": 6, "weight": 12.0 }
+    { "name": "log", "rarity": 0, "weight": 16.0 }
+    { "name": "clump of weeds", "rarity": 0, "weight": 2.5 }
+    { "name": "stick", "rarity": 0, "weight": 0.4 }
+    { "name": "rusty shovel", "rarity": 0, "weight": 5.2 }
+    { "name": "bucket with a hole", "rarity": 0, "weight": 1.0 }
+    { "name": "grinning skull", "rarity": 0, "weight": 3.0 }
+    { "name": "Walloping arrows x10", "rarity": 11, "weight": 10 }
+    { "name": "Spell Scroll - Ceremony", "rarity": 11, "weight": 15 }
+    { "name": "Spell Scroll - Find Familiar", "rarity": 11, "weight": 15 }
+    { "name": "Pole of Angling", "rarity": 11, "weight": 20 }
+    { "name": "Potion of Healing", "rarity": 11, "weight": 10 }
+    { "name": "Potion of Water Breathing", "rarity": 12, "weight": 20 }
+    { "name": "Potion of Greater Healing", "rarity": 12, "weight": 20 }
+    { "name": "+1 Round Shield", "rarity": 12, "weight": 25 }
+    { "name": "+1 Dagger", "rarity": 12, "weight": 30 }
+    { "name": "Boots of Elven Kind", "rarity": 12, "weight": 20 }
+    { "name": "Stone of Good luck (+1)", "rarity": 12, "weight": 15 }
+    { "name": "Spell Scroll - See invisibility", "rarity": 12, "weight": 20 }
+    { "name": "Spell Scroll - Find Traps", "rarity": 12, "weight": 20 }
+    { "name": "Spell Scroll - Wall of Water", "rarity": 12, "weight": 20 }
+    { "name": "Spell Scroll - Create Food and Water", "rarity": 12, "weight": 20 }
+    { "name": "Bag of Holding", "rarity": 12, "weight": 25 }
+    { "name": "Portable Hole", "rarity": 13, "weight": 30 }
+    { "name": "+1 Breastplate", "rarity": 13, "weight": 50 }
+    { "name": "+2 Spear", "rarity": 13, "weight": 50 }
+    { "name": "Potion of Superior Healing", "rarity": 13, "weight": 30 }
+    { "name": "Potion of Heroism", "rarity": 13, "weight": 30 }
+    { "name": "ring of Protection +1", "rarity": 13, "weight": 50 }
+    { "name": "Tentacle Rod", "rarity": 13, "weight": 50 }
+    { "name": "Ioun Stone - Reserve", "rarity": 13, "weight": 30 }
+    { "name": "Quaal's Feather Token - Whip", "rarity": 13, "weight": 50 }
+    { "name": "Spell Scroll - Summon Elemental", "rarity": 13, "weight": 30 }
+    { "name": "Spell Scroll - Conjure Elemental", "rarity": 13, "weight": 30 }
+    { "name": "Spell Scroll - Sunbeam", "rarity": 14, "weight": 50 }
+    { "name": "Potion of Supreme Healing", "rarity": 14, "weight": 50 }
+    { "name": "+3 Longsword", "rarity": 14, "weight": 150 }
+    { "name": "+2 Studded Leather Armor", "rarity": 14, "weight": 150 }
+    { "name": "Manual of Bodily Health", "rarity": 14, "weight": 200 }
+    { "name": "Iron Flask", "rarity": 15, "weight": 500 }
+    { "name": "Scarab of Protection", "rarity": 15, "weight": 500 }
+    { "name": "Ring of Three Wishes", "rarity": 15, "weight": 500 } 
   ]
 }
