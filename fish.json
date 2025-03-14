@@ -13,7 +13,6 @@
     { "name": "Cod", "rarity": 3, "weight": 8.0 },
     { "name": "Anglerfish", "rarity": 7, "weight": 25.0 },
     { "name": "Mahi Mahi", "rarity": 5, "weight": 30.0 },
-    { "name": "Catfish", "rarity": 2, "weight": 6.0 },
     { "name": "Eel", "rarity": 3, "weight": 4.0 },
     { "name": "Snapper", "rarity": 4, "weight": 15.0 },
     { "name": "Kingfish", "rarity": 6, "weight": 50.0 },
